@@ -12,6 +12,7 @@
         color: lightgray;
         background: #202b66;
         margin-bottom: 10px;
+        height: 100px;
     }
     .li {
         font-size: 25px;
@@ -20,9 +21,12 @@
         margin-right: 15px;
     }
     .button-left{
-        width: 50px;
+        width: 200px;
+        padding: 10px;
+
     }
     .button-rigt{
-        width: 50px;
+        width: 200px;
+        padding: 10px;
     }
 }
