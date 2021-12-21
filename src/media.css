@@ -1,0 +1,28 @@
+@media (max-width: 546px) {
+    .container {
+        max-width: 546px;
+        margin: 0 auto;
+    }
+    .col-4 {
+        width: 50%;
+    }
+    header {
+        text-align: center;
+        padding: 10px 5px;
+        color: lightgray;
+        background: #202b66;
+        margin-bottom: 10px;
+    }
+    .li {
+        font-size: 25px;
+        color: white;
+        text-decoration: none;
+        margin-right: 15px;
+    }
+    .button-left{
+        width: 50px;
+    }
+    .button-rigt{
+        width: 50px;
+    }
+}

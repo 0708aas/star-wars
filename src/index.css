@@ -1,0 +1,71 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.bac {
+    background: url("/src/img/hg.png") center/cover no-repeat;
+}
+
+.container {
+    max-width: 1170px;
+    margin: 0 auto;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.col-4 {
+    width: 20%;
+}
+
+.img {
+    width: 100%;
+}
+
+header {
+    text-align: center;
+    padding: 30px 20px;
+    color: lightgray;
+    background: #202b66;
+    margin-bottom: 40px;
+}
+
+.li {
+    font-size: 23px;
+    color: white;
+    text-decoration: none;
+    margin-right: 30px;
+}
+.col-2{
+    width: 50%;
+}
+.active {
+    color: red;
+}
+
+.title {
+    color: white;
+    background: #202b66;
+    border: 1px solid black;
+}
+
+.button-left {
+    background: black;
+    border: 1px solid blue;
+    color: white;
+    padding: 5px;
+    width: 100px;
+    margin-bottom: 10px;
+}
+.button-rigt{
+    background: black;
+    border: 1px solid blue;
+    color: white;
+    padding: 5px;
+    width: 100px;
+    margin-bottom: 10px;
+}
